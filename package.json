@@ -22,5 +22,20 @@
     "react-redux": "5.0.7",
     "redux": "4.0.0",
     "youtube-api-search": "0.0.5"
-  }
+  },
+  "name": "youtube-clone",
+  "version": "1.0.0",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imballa/youtube-clone.git"
+  },
+  "author": "Vivek Desai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imballa/youtube-clone/issues"
+  },
+  "homepage": "https://github.com/imballa/youtube-clone#readme"
 }
